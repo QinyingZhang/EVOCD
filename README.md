@@ -34,5 +34,9 @@ pip install torch==2.5.1 matplotlib seaborn opencv-python scikit-learn numpy
 - Macro F1-score: **74.25%**
 - High recall for severe levels despite data imbalance
 
+## Code and Data Availability
+
+The code is publicly available in this repository. The dataset and pre-trained weights are not publicly available due to privacy and licensing constraints. Requests for access can be directed to the corresponding author.
+
 ## License
 MIT
