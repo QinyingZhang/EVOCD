@@ -1,0 +1,12 @@
+{
+  "include": [
+    "hier_mult",
+    "end_train_strategies"
+  ],
+  "extraPaths": [
+    "hier_mult"
+  ],
+  "pythonVersion": "3.8",
+  "typeCheckingMode": "basic"
+}
+
